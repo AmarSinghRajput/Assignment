@@ -15,8 +15,7 @@ Installing
 A step by step series of examples that tell you how to get a development env running
 
 Clone the repository
-Copy code
-git clone https://github.com/username/project-name.git
+
 Install dependencies
 Copy code
 pod install
@@ -31,7 +30,7 @@ RxSwift - The programming language used
 CocoaPods - Dependency Management
 Authors
 
-Your Name - Initial work - Your Github
+Amar Singh - Initial work - (https://github.com/AmarSinghRajput/Assignment/)
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
